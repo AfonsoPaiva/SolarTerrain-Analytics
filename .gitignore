@@ -375,3 +375,9 @@ deployment/
 *.exec
 dependency-check-report.html
 *.hprof
+
+# Local development scripts
+solar-manager.bat
+project-manager.*
+dev-tools.*
+local-scripts/
